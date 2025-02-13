@@ -6,8 +6,11 @@ Pushing and pulling can result in a merge conflict if the head is moved off the 
 We will not do a live demo of this.
 
 If you want to commit from CLI do:
+
 git add -A
+
 git commit -m "commit message"
+
 git push
 
 -Oliver
